@@ -1,3 +1,7 @@
+"""
+https://github.com/0KMCM0/Python-KM_CM_Matrix
+"""
+
 from typing import TypeVar as _TypeVar, Generic as _Generic, Any as _Any
 
 _T = _TypeVar( '_T' )
