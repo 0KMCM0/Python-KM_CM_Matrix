@@ -1,1 +1,1 @@
-Made for fun, but is useful.
+Made for fun, but might be useful.
